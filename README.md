@@ -148,6 +148,10 @@ nieinformatywnych na jakość klasyfikacji.
 Skopiować listę takich wyrazów
 ze strony pod adresem https://pl.wikipedia.org/wiki/Wikipedia:Stopwords
 do zmiennej `STOP_WORDS`.
+Uwaga: podobno w PyCharm wypada dodać spacje
+lub znak tabulacji przed skopiowaną listą wyrazów,
+bo inaczej program po uruchomieniu
+rzuca przedziwny błąd kodowania.
 Skopiować do sprawozdania dane modelu,
 poczynając od `{'dataset':`.
 Pozostawić w programie tę wartość `STOP_WORDS`,
