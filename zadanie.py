@@ -140,7 +140,7 @@ class PlusMinusVectorizer:
 
 
 def read_file(filename):
-    with open(filename, 'rt') as file:
+    with open(filename, 'rt', encoding='utf-8') as file:
         for line in file:
             tokens = line.lower().split()
             y = LABEL_TO_Y[tokens[-1]]
