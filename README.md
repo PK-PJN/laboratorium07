@@ -1,5 +1,5 @@
 # Przetwarzanie języka naturalnego
-# Laboratorium 4: analiza wydźwięku
+# Laboratorium 7: analiza wydźwięku
 
 1. Skopiować zawartość niniejszego repozytorium
 na dysk lokalny. Pobrać korpus opinii `dataset_clarin.zip`
